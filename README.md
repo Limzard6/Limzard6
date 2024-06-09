@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Limzard6
 - 👀 I’m interested in Animals, i enjoy dabbling in coding
 - 🌱 I’m currently learning Languages
-- 📫 How to reach me twitter @lizardlord66
+- 📫 How to reach me twitter @lizardlord66 or discord @lizard6
 
 <!---
 Limzard6/Limzard6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
